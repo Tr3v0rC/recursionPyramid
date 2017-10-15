@@ -1,5 +1,5 @@
 window.onload = setup;
-var width, height,;
+var width, height;
 
 function setup() {
     canvas = document.getElementById("c");
